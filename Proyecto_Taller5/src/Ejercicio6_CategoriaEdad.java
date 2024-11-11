@@ -24,3 +24,8 @@ public class Ejercicio6_CategoriaEdad {
     }
   
 }
+/***
+ * ingrese edad
+  25
+ Adulto
+ */
